@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Brazil, Curitiba📍<br><br>-Desnvolvedor Full Stack em andamento.<br>-Curso Analise e Desnvolvimento de Sistemas na PUC/PR 1º periodo</h3>
+<h3 align="left">Brazil, Curitiba📍<br><br>🖥️Desnvolvedor Full Stack em andamento.<br>📚Curso Analise e Desnvolvimento de Sistemas na PUC/PR  | 1º periodo.</h3>
 
 ###
 
