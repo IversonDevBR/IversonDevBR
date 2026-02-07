@@ -1,8 +1,8 @@
-<h3 align="center">Sobre mim:</h3>
+<h3 align="center">Meu Github</h3>
 
 ###
 
-<h3 align="left">Brazil, Curitiba<br><br>-Desnvolvedor Full Stack em andamento.<br>-Curso Analise e Desnvolvimento de Sistemas na PUC/PR 1º periodo</h3>
+<h3 align="left">Brazil, Curitiba📍<br><br>-Desnvolvedor Full Stack em andamento.<br>-Curso Analise e Desnvolvimento de Sistemas na PUC/PR 1º periodo</h3>
 
 ###
 
@@ -20,6 +20,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
 ###
@@ -30,9 +34,6 @@
   </a>
   <a href="https://www.instagram.com/aivns_x/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/1/?pli=1#inbox" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="40" alt="gmail logo"  />
   </a>
 </div>
 
