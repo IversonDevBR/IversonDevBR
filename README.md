@@ -31,17 +31,6 @@ Atualmente estou buscando:
 
 ---
 
-## 📚 O que você vai encontrar aqui
-
-Neste GitHub eu compartilho:
-
-- 📌 Projetos de estudo  
-- 📌 Exercícios de programação  
-- 📌 Experimentos com novas tecnologias  
-- 📌 Minha evolução como desenvolvedor  
-
----
-
 ## 📈 Em constante evolução
 
 Estou sempre buscando:
