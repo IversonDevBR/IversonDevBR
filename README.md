@@ -49,4 +49,3 @@ Estou sempre buscando:
 
 ---
 
-⭐ **Obrigado por visitar meu perfil!**
