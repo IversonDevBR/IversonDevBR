@@ -1,58 +1,63 @@
-<h3 align="center">Meu Github</h3>
+# 👋 Olá! Eu sou um Desenvolvedor Full Stack em Formação
 
-###
+🎓 Atualmente estou cursando **Análise e Desenvolvimento de Sistemas (ADS) na PUCPR**  
+💻 Em busca de me tornar um **Desenvolvedor Full Stack**
 
-<h3 align="left">Brazil, Curitiba📍<br><br>🖥️Desnvolvedor Full Stack em andamento.<br>📚Curso Analise e Desnvolvimento de Sistemas na PUC/PR  | 1º periodo.</h3>
+---
 
-###
+## 🚀 Tecnologias que estou aprendendo
 
-<h3 align="left">Linguagens em aprendizado:</h3>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
+</p>
 
-###
+- **HTML5** – Estruturação de páginas web  
+- **CSS3** – Estilização e layout  
+- **JavaScript** – Lógica e interatividade no front-end  
+- **Python** – Lógica de programação e desenvolvimento back-end  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+---
 
-###
+## 🎯 Objetivo
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/iverson-irian-579b153aa/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/aivns_x/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="40" alt="instagram logo"  />
-  </a>
-</div>
+Meu objetivo é me tornar um **Desenvolvedor Full Stack**, dominando **Front-end e Back-end** para construir aplicações completas.
 
-###
+Atualmente estou buscando:
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=iversonDevBR.iversonDevBR&right_color=blue&left_text=Observadores"  />
-</div>
+🔎 **Estágio em Desenvolvimento de Software / Desenvolvimento Web**
 
-###
+---
 
-<h1 align="center"></h1>
+## 📚 O que você vai encontrar aqui
 
-###
+Neste GitHub eu compartilho:
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+- 📌 Projetos de estudo  
+- 📌 Exercícios de programação  
+- 📌 Experimentos com novas tecnologias  
+- 📌 Minha evolução como desenvolvedor  
 
-###
+---
 
-###
+## 📈 Em constante evolução
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+Estou sempre buscando:
 
-###
+- Aprender novas tecnologias  
+- Melhorar minha lógica de programação  
+- Construir projetos práticos  
+- Evoluir como desenvolvedor Full Stack  
+
+---
+
+## 📫 Conecte-se comigo
+
+💼 LinkedIn: https://linkedin.com/in/seu-linkedin  
+📧 Email: seuemail@email.com  
+
+---
+
+⭐ **Obrigado por visitar meu perfil!**
