@@ -44,7 +44,7 @@ Estou sempre buscando:
 
 ## 📫 Conecte-se comigo
 
-💼 LinkedIn:(https://www.linkedin.com/in/iverson-irian-579b153aa/)
+💼 LinkedIn:(https://www.linkedin.com/in/iverson-irian-579b153aa/)<br>
 📧 Email: Iversonirian@gmail.com
 
 ---
