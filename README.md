@@ -39,6 +39,9 @@ na área de tecnologia**, onde eu possa ganhar experiência real e crescer:
 - 🔌 **IoT e automação**
 - 🔐 **Segurança da informação**
 
+> Gosto de aprender na prática, resolver problemas e evoluir junto com o time.
+> Se você tem uma vaga de estágio ou quer trocar ideia, **me chama!** 🤝
+
 ---
 
 ## 🛠️ Tecnologias que já estudei e usei
@@ -59,10 +62,10 @@ na área de tecnologia**, onde eu possa ganhar experiência real e crescer:
 
 ### 🗄️ Banco de Dados
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Banco de dados" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="Banco de dados" />
 </p>
 
-> **MySQL** / **SQL** · Modelagem conceitual, lógica e física · Controle de acesso de usuários
+> **MySQL** · **PostgreSQL** · **SQL** · Modelagem conceitual, lógica e física · Controle de acesso de usuários
 
 ### 🔌 IoT (Internet das Coisas)
 <p>
