@@ -39,9 +39,6 @@ na área de tecnologia**, onde eu possa ganhar experiência real e crescer:
 - 🔌 **IoT e automação**
 - 🔐 **Segurança da informação**
 
-> Gosto de aprender na prática, resolver problemas e evoluir junto com o time.
-> Se você tem uma vaga de estágio ou quer trocar ideia, **me chama!** 🤝
-
 ---
 
 ## 🛠️ Tecnologias que já estudei e usei
