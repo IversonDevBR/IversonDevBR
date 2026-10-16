@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Iverson+%F0%9F%91%8B;Pentester+em+forma%C3%A7%C3%A3o+%F0%9F%94%90;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Iverson+%F0%9F%91%8B;Desenvolvedor+em+forma%C3%A7%C3%A3o+%F0%9F%92%BB;Aberto+a+oportunidades+em+tecnologia+%F0%9F%9A%80;Com+foco+em+seguran%C3%A7a+e+pentest+%F0%9F%94%90" alt="Typing SVG" />
 
-![Status](https://img.shields.io/badge/status-pentester_em_forma%C3%A7%C3%A3o-00ff41?style=for-the-badge&logo=hackthebox&logoColor=black)
+![Status](https://img.shields.io/badge/status-aberto_a_oportunidades-00ff41?style=for-the-badge&logo=github&logoColor=black)
 ![Local](https://img.shields.io/badge/Curitiba-PR-0d1117?style=for-the-badge&logo=googlemaps&logoColor=00ff41)
 
 </div>
@@ -17,10 +17,30 @@ iverson
 
 $ cat sobre.txt
 > Estudante de ADS (Análise e Desenvolvimento de Sistemas) na PUCPR
-> Foco em Segurança da Informação e Pentest (testes de invasão autorizados)
-> Aprendendo na prática: programação, redes, Linux e banco de dados
+> Desenvolvedor em formação: Python, Java, JavaScript e banco de dados
+> Interesse especial em Segurança da Informação e Pentest (testes de invasão autorizados)
+> Aprendendo na prática: programação, redes, Linux e IoT
 > Buscando minha primeira oportunidade de estágio na área de tecnologia
 ```
+
+---
+
+## 🚀 Aberto a oportunidades
+
+Meu objetivo final é **segurança da informação e pentest**, mas sei que o caminho começa
+com uma **base sólida em desenvolvimento**. Por isso estou **aberto a qualquer oportunidade
+na área de tecnologia**, onde eu possa ganhar experiência real e crescer:
+
+- 💻 **Desenvolvimento** (back-end, front-end, full stack)
+- 🗄️ **Banco de dados**
+- 🧪 **Testes e qualidade de software**
+- 🛠️ **Suporte técnico e infraestrutura**
+- 🌐 **Redes e Linux**
+- 🔌 **IoT e automação**
+- 🔐 **Segurança da informação**
+
+> Gosto de aprender na prática, resolver problemas e evoluir junto com o time.
+> Se você tem uma vaga de estágio ou quer trocar ideia, **me chama!** 🤝
 
 ---
 
@@ -64,7 +84,7 @@ $ cat sobre.txt
 
 ---
 
-## 🔐 Trilha de Cibersegurança
+## 🔐 Meu interesse a longo prazo: Cibersegurança
 
 | Etapa | Status |
 |---|---|
