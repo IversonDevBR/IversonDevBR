@@ -1,51 +1,112 @@
-# 👋 Olá! Eu sou um Desenvolvedor Full Stack em Formação
+<div align="center">
 
-🎓 Atualmente estou cursando **Análise e Desenvolvimento de Sistemas (ADS) na PUCPR**  
-💻 Em busca de me tornar um **Desenvolvedor Full Stack**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Iverson+%F0%9F%91%8B;Pentester+em+forma%C3%A7%C3%A3o+%F0%9F%94%90;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas" alt="Typing SVG" />
+
+![Status](https://img.shields.io/badge/status-pentester_em_forma%C3%A7%C3%A3o-00ff41?style=for-the-badge&logo=hackthebox&logoColor=black)
+![Local](https://img.shields.io/badge/Curitiba-PR-0d1117?style=for-the-badge&logo=googlemaps&logoColor=00ff41)
+
+</div>
 
 ---
 
-## 🚀 Tecnologias que estou aprendendo
+## `whoami`
 
+```bash
+$ whoami
+iverson
+
+$ cat sobre.txt
+> Estudante de ADS (Análise e Desenvolvimento de Sistemas) na PUCPR
+> Foco em Segurança da Informação e Pentest (testes de invasão autorizados)
+> Aprendendo na prática: programação, redes, Linux e banco de dados
+> Buscando minha primeira oportunidade de estágio na área de tecnologia
+```
+
+---
+
+## 🛠️ Tecnologias que já estudei e usei
+
+### 💻 Linguagens
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
+  <img src="https://skillicons.dev/icons?i=py,java,js,html,css,bash&theme=dark" alt="Linguagens" />
 </p>
 
-- **HTML5** – Estruturação de páginas web  
-- **CSS3** – Estilização e layout  
-- **JavaScript** – Lógica e interatividade no front-end  
-- **Python** – Lógica de programação e desenvolvimento back-end  
+> **Python** · **Java** (orientação a objetos) · **JavaScript** · **HTML** · **CSS** · **Bash**
+
+### 🐧 Sistemas e Redes
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows&theme=dark" alt="Sistemas" />
+</p>
+
+> **Linux / Ubuntu** (WSL2) · **Windows** · Modelo **OSI**, **TCP/IP**, sub-redes e **SSH**
+
+### 🗄️ Banco de Dados
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Banco de dados" />
+</p>
+
+> **MySQL** / **SQL** · Modelagem conceitual, lógica e física · Controle de acesso de usuários
+
+### 🔌 IoT (Internet das Coisas)
+<p>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wokwi-simulador-1A9F5A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ThingSpeak-nuvem_IoT-F5A623?style=for-the-badge" />
+</p>
+
+### 🧰 Ferramentas
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,md&theme=dark" alt="Ferramentas" />
+</p>
+
+> **Git** · **GitHub** · **VS Code** · **Markdown**
 
 ---
 
-## 🎯 Objetivo
+## 🔐 Trilha de Cibersegurança
 
-Meu objetivo é me tornar um **Desenvolvedor Full Stack**, dominando **Front-end e Back-end** para construir aplicações completas.
+| Etapa | Status |
+|---|---|
+| Fundamentos de redes (OSI, TCP/IP, sub-redes, SSH) | ✅ Estudado |
+| Prática com Linux (WSL2 + Ubuntu) | ✅ Em uso |
+| OverTheWire — Bandit | 🔄 Em andamento |
+| TryHackMe | 🔄 Em andamento |
+| CTFs (competições de segurança) | 🎯 Próximo passo |
+| CompTIA Security+ | 🎯 Objetivo |
 
-Atualmente estou buscando:
-
-🔎 **Estágio em Desenvolvimento de Software / Desenvolvimento Web**
-
----
-
-## 📈 Em constante evolução
-
-Estou sempre buscando:
-
-- Aprender novas tecnologias  
-- Melhorar minha lógica de programação  
-- Construir projetos práticos  
-- Evoluir como desenvolvedor Full Stack  
+<p>
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/OverTheWire-000000?style=for-the-badge&logo=gnubash&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white" />
+</p>
 
 ---
 
-## 📫 Conecte-se comigo
+## 📂 Projetos
 
-💼 LinkedIn:(https://www.linkedin.com/in/iverson-irian-579b153aa/)<br>
-📧 Email: Iversonirian@gmail.com
+- 🐍 **Projeto em Python** — persistência em JSON, autenticação de usuários e tratamento de erros
+- ☕ **Simulador de financiamento (Java)** — classes, herança, polimorfismo, encapsulamento e saída em JSON
+- 🗄️ **Modelagem de banco de dados** — sistema de delivery e loja de vinhos (MySQL Workbench)
+- 🌡️ **Monitoramento com ESP32** — leitura de temperatura/umidade com sensor DHT11 e envio de dados para a nuvem
 
 ---
 
+## 📫 Contato
+
+<p>
+  <a href="https://www.linkedin.com/in/iverson-cassemiro-579b153aa/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:iversonIrian@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<div align="center">
+
+```
+"Para proteger um sistema, primeiro é preciso aprender a pensar como quem o ataca."
+```
+
+</div>
